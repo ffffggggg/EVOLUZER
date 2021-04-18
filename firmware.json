@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 7,
+    "version": 1,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/ffffggggg/EVOLU-CA-v3.1.0/main/EVOLU-CA_1.2.7.ino.esp32.bin"
+    "bin": "/ffffggggg/EVOLUZER/main/EVOLUZERv2.ino.esp32.bin"
 }
